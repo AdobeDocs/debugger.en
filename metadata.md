@@ -1,5 +1,5 @@
 ---
-cloud: experience-platform
+cloud: Experience Platform
 type: documentation
 solution-title: Learn & Support
 solution-hub-url: https://helpx.adobe.com/support/experience-cloud/core-services.html

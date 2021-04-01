@@ -1,5 +1,5 @@
 ---
-cloud: experience-cloud
+cloud: Experience Cloud
 product: experience cloud
 sub-product: experience cloud debugger
 solution: Experience Cloud

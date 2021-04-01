@@ -1,5 +1,5 @@
 ---
-cloud: experience-platform
+cloud: Experience Platform
 product: experience platform
 sub-product: experience platform debugger
 solution: Experience Platform, Data Collection
