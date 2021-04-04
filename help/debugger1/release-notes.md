@@ -5,8 +5,8 @@ seo-description: Release notes for Experience Cloud Debugger
 seo-title: Release Notes
 title: Release Notes
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
+exl-id: 1c81a0f2-81ae-4f29-8c48-45e755cabb07
 ---
-
 # Release Notes{#release-notes}
 
 ## Release Notes {#topic-a92c3eb799b74e7fa404af8af5efb215}
@@ -255,4 +255,3 @@ Version 0.0.803 does not include any customer-facing changes.
   </tr> 
  </tbody> 
 </table>
-

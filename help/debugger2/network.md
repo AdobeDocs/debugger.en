@@ -5,8 +5,8 @@ seo-description: Experience Platform Debugger Network screen
 seo-title: Network Information
 title: Network Information
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
+exl-id: ed0579ef-ec26-43df-9453-a395c105038a
 ---
-
 # Network{#network}
 
 >[!IMPORTANT]

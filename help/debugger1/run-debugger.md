@@ -5,8 +5,8 @@ seo-description: Running Experience Cloud Debugger
 seo-title: Summary Screen
 title: Summary Screen
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
+exl-id: 0ee0314b-1611-4581-ae54-2c784e0e56ff
 ---
-
 # Summary Screen{#summary-screen}
 
 To run the Adobe Experience Cloud Debugger, click the extension icon in the extension bar, then open the page you want to examine in Chrome.
@@ -213,4 +213,3 @@ Experience Cloud Debugger shows the following information for each solution:
   </tr> 
  </tbody> 
 </table>
-

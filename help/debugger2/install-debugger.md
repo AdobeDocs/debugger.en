@@ -5,8 +5,8 @@ seo-description: How to Install Experience Platform Debugger
 seo-title: Install Experience Platform Debugger
 title: Install Experience Platform Debugger
 uuid: 16d77c6d-11e7-4dfd-a846-3dace9f4070f
+exl-id: add83773-dad7-4abe-9740-a69eb8fadbc3
 ---
-
 # Install Adobe Experience Platform Debugger{#install-experience-platform-debugger}
 
 >[!IMPORTANT]
@@ -22,5 +22,4 @@ After you install the Chrome extension or Firefox add-on, an icon is added to th
 
 ![](assets/start-icon.jpg)
 
-Click the icon to start Experience Platform Debugger. 
-
+Click the icon to start Experience Platform Debugger.

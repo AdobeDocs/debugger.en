@@ -4,8 +4,8 @@ keywords: debugger;experience platform debugger extension;chrome;extension;confi
 seo-description: How to configure Experience Platform Debugger
 seo-title: Configure Experience Platform Debugger
 title: Configure Experience Platform Debugger
+exl-id: ddc90b52-56d4-4efc-aad7-5a2c430e7dfe
 ---
-
 # Configure Debugger
 
 >[!IMPORTANT]

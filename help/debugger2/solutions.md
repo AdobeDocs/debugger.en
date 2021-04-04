@@ -5,8 +5,8 @@ seo-description: Using the Solution tabs in Adobe Experience Platform Debugger
 seo-title: Solution Tabs in Adobe Experience Platform Debugger 
 title: Solution Tabs
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
+exl-id: 2cb49f78-4a4b-4410-8a4b-6f9009c51d58
 ---
-
 # Solutions{#solution-tabs}
 
 >[!IMPORTANT]

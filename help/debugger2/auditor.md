@@ -3,8 +3,8 @@ description: About Experience Platform Auditor
 keywords: debugger;experience platform debugger extension;chrome;extension;auditor;dtm;target
 seo-description: About Experience Platform Auditor
 title: Auditor
+exl-id: 409094f8-a7d9-45f7-ba12-b5e6250abc0f
 ---
-
 # Auditor {#auditor}
 
 >[!IMPORTANT]

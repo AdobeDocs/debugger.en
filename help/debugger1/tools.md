@@ -5,8 +5,8 @@ seo-description: Experience Cloud Debugger Tools screen
 seo-title: Tools
 title: Tools
 uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
+exl-id: ad108515-030f-4790-a29c-70f82e58a55d
 ---
-
 # Tools{#tools}
 
 On the Tools screen, you can enable or disable various tools for the installed solution. For example, you can turn on Target's console debugging statements or use the DTM Staging Library. These tools are only available if Target and DTM are installed on your page.
@@ -77,4 +77,4 @@ You can dynamically insert Adobe Experience Platform Launch or DTM on any page t
 
 The following video explains how to use the Debugger extension with Adobe Target.
 
->[!VIDEO](https://video.tv.adobe.com/v/23115t2/) 
+>[!VIDEO](https://video.tv.adobe.com/v/23115t2/)

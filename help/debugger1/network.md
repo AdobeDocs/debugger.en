@@ -5,8 +5,8 @@ seo-description: Experience Cloud Debugger Network Information screen
 seo-title: Network Information
 title: Network Information
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
+exl-id: 9a758088-e87f-42a6-8410-24eb84d0d37a
 ---
-
 # Network Information{#network-information}
 
 To view Network information, click **[!UICONTROL Network]**.
@@ -34,4 +34,3 @@ Click on an item in the Network view to see it larger. From the expanded view wi
 Use the icon at the top of each column to copy the server call URL to your clipboard, where you can paste it into another document for reference or debugging purposes.
 
 ![](assets/copy.jpg)
-

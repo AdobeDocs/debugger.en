@@ -5,9 +5,8 @@ seo-description: Technical documentation for the Adobe Experience Platform Debug
 seo-title: Adobe Experience Platform Debugger Chrome and Firefox Extension
 title: Adobe Experience Platform Debugger Extension
 uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
-
+exl-id: e02bc318-fbff-4a19-980a-d5c0a21ca300
 ---
-
 # (Beta) Adobe Experience Platform Debugger {#adobe-experience-platform-debugger}
 
 >[!IMPORTANT]
@@ -36,4 +35,4 @@ Use Platform Debugger  to gather information that helps you understand how your 
 
 ## Video tutorial
 
->[!VIDEO](https://video.tv.adobe.com/v/32156?quality=12&learn=on) 
+>[!VIDEO](https://video.tv.adobe.com/v/32156?quality=12&learn=on)

@@ -5,8 +5,8 @@ seo-description: Using the Solution tabs in Adobe Debugger
 seo-title: Solution Tabs in Adobe Debugger
 title: Solution Tabs
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
+exl-id: 1364e3df-4eba-4270-9b58-1bf397f29a60
 ---
-
 # Solution Tabs{#solution-tabs}
 
 Click the solution tabs to see the results for specific Adobe Experience Cloud solutions.
@@ -117,4 +117,4 @@ Use the Experience Cloud ID Service tab to view [Experience Cloud ID Service](ht
 
 Click **[!UICONTROL Requests]**, then expand the environment to view information about Experience Cloud ID Service.
 
-Click **[!UICONTROL Clear All Requests]** to remove the currently displayed requests. More requests will appear as they are made. 
+Click **[!UICONTROL Clear All Requests]** to remove the currently displayed requests. More requests will appear as they are made.

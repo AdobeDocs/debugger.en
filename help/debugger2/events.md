@@ -4,8 +4,8 @@ keywords: debugger;experience platform debugger extension;chrome;extension;event
 seo-description: Experience Platform Debugger Events Screen
 seo-title: Events
 title: Events
+exl-id: 1f94ca36-d545-4e41-89a9-ed97c45991fb
 ---
-
 # Events{#events}
 
 >[!IMPORTANT]

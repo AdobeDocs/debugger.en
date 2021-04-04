@@ -5,8 +5,8 @@ seo-description: Experience Platform Debugger Logs screen
 seo-title: Logs
 title: Logs
 uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
+exl-id: 137a97f2-7e02-4e09-b4c9-e48e20e044d1
 ---
-
 # Logs{#logs}
 
 >[!IMPORTANT]

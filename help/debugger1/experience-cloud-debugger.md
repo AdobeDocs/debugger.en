@@ -5,9 +5,8 @@ seo-description: Technical documentation for the Adobe Experience Cloud Debugger
 seo-title: Adobe Experience Cloud Debugger Chrome Extension
 title: Adobe Experience Cloud Debugger Extension
 uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
-
+exl-id: 02d88172-3fb1-4111-a80d-e9d46df9ea1e
 ---
-
 # Adobe Experience Cloud Debugger Extension{#adobe-experience-cloud-debugger-extension}
 
 The [Adobe Experience Cloud Debugger extension for Chrome](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj) examines your web pages and helps you find problems with how your Experience Cloud solutions are implemented.

@@ -5,8 +5,8 @@ seo-description: Experience Platform Debugger Summary Screen
 seo-title: Summary Screen
 title: Summary Screen
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
+exl-id: 91234125-15c4-4111-9ee4-f3af093a3c4d
 ---
-
 # Summary Screen{#summary-screen}
 
 >[!IMPORTANT]
@@ -196,4 +196,3 @@ Experience Platform Debugger shows the following information for each solution:
   </tr> 
  </tbody> 
 </table>
-
