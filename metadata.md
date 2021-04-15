@@ -1,6 +1,6 @@
 ---
 cloud: Experience Platform
-type: documentation
+type: Documentation
 solution-title: Learn & Support
 solution-hub-url: https://helpx.adobe.com/support/experience-cloud/core-services.html
 solution-image: help/assets/experience-p-logo-24.png
