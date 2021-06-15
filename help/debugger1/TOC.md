@@ -2,7 +2,7 @@
 cloud: Experience Cloud
 product: experience cloud
 sub-product: experience cloud debugger
-solution: Experience Cloud
+solution: Experience Cloud, Debugger
 audience: end-user
 user-guide-title: Experience Cloud Debugger Help
 user-guide-description: Examine your web pages for problems with your Experience Cloud solution implementations.
