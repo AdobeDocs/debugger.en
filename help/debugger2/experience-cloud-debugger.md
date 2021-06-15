@@ -17,7 +17,7 @@ exl-id: e02bc318-fbff-4a19-980a-d5c0a21ca300
 
 Use Platform Debugger with the other Adobe activation solutions for a workflow like the following:
 
-1. Use [Launch](https://docs.adobe.com/content/help/en/launch/using/overview.html) or [DTM](https://docs.adobe.com/content/help/en/dtm/using/dtm-home.html) to insert code that activates [Adobe Experience Cloud](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html) solutions on your pages. 
+1. Use [Launch](https://experienceleague.adobe.com/docs/launch/using/home.html) or [DTM](https://docs.adobe.com/content/help/en/dtm/using/dtm-home.html) to insert code that activates [Adobe Experience Cloud](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html) solutions on your pages. 
 
 1. Use [Adobe Experience Platform Auditor](https://experiencecloud.adobe.com/resources/help/en_US/auditor/) to test your implementations. 
 1. Use the Adobe Experience Platform Debugger to debug issues found by Auditor or to examine other information about your implementations.
